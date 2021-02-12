@@ -1,0 +1,3 @@
+Référence,Produit,Quantité,Prix,Montant
+A12	,SSD 1TB	,5	,25000.0	,125000.0
+	,Total	,0	,0	,125000.0

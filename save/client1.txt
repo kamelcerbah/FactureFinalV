@@ -1,0 +1,6 @@
+constant,echangeable
+ Numéro	,1
+ Date	,Fri Feb 12 10:09:07 WAT 2021
+ Nom de Client	,BENSAID
+ Prenom de Client	,TAYEB
+Mot De Passe	,123456
